@@ -1,7 +1,7 @@
 // Lab 5 -- load/store/mov
 //
 // Programmer name: Kyle Landrith
-// Date completed:  2/27/20
+// Date completed:  2/25/20
 
 .syntax unified
 .cpu cortex-m4
